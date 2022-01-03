@@ -1,0 +1,7 @@
+Gitbefehle 
+um Daten in Github hochzuladen/updaten
+	man kann verschiedene versionen in unterschiedlichen Branches speichern und die unterschiedlich benennen
+	//sagen wo es hin soll
+	git remote add [name der var][wo es hin soll(zB https://github.com/PythonPyro/LearnGithub.git)] 
+	//push
+	git push -u [name der variable][name des branch]
